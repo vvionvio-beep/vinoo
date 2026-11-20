@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Inherit คุณยายวรนาฏ</title>
+
+<style>
+body{
+    margin:0;
+    background:#111;
+    color:white;
+    font-family:Arial;
+    text-align:center;
+}
+
+.movie{
+    max-width:400px;
+    margin:30px auto;
+    background:#1c1c1c;
+    border-radius:12px;
+    overflow:hidden;
+}
+
+.movie img{
+    width:100%;
+    display:block;
+}
+
+.content{
+    padding:20px;
+}
+
+h1{
+    font-size:25px;
+    margin:0 0 10px;
+}
+
+p{
+    color:#aaa;
+    font-size:14px;
+    line-height:1.5;
+}
+
+.play{
+    display:block;
+    background:#e50914;
+    color:white;
+    text-decoration:none;
+    padding:13px;
+    margin-top:20px;
+    border-radius:7px;
+    font-weight:bold;
+}
+
+.play:hover{
+    background:#ff202b;
+}
+</style>
+</head>
+
+<body>
+<script>
+  atOptions = {
+    'key' : '8b8408690fe3f4428d58e99a647615ef',
+    'format' : 'iframe',
+    'height' : 50,
+    'width' : 320,
+    'params' : {}
+  };
+</script>
+<script src="https://www.highrevenueformat.com/8b8408690fe3f4428d58e99a647615ef/invoke.js"></script>
+
+<div class="movie">
+
+    <!-- GANTI URL GAMBAR -->
+    <img src="https://i.mydramalist.com/gOO8zd_4f.jpg">
+
+    <div class="content">
+
+        <h1>Inherit คุณยายวรนาฏ</h1>
+
+        <p>
+            รับชมภาพยนตร์และซีรีส์ล่าสุดในคุณภาพระดับ HD
+เพลิดเพลินกับประสบการณ์การรับชมผ่านอินเทอร์เฟซที่เรียบง่าย สวยงาม และใช้งานง่ายบนทุกอุปกรณ์.
+        </p>
+
+        <!-- GANTI LINK VIDEO DI SINI -->
+        <a class="play"
+           href="https://t.co/Qc0coKtohr"
+           target="_blank">
+           ▶▶ คลิกที่นี่ ⇒ Inherit คุณยายวรนาฏ
+        </a>
+
+    </div>
+
+</div>
+
+</body>
+<script src="https://pl28615610.profitableratecpmnetwork.com/98/d1/07/98d107a9f0f97d4c1a64ee4b04bd957c.js"></script>
+</html>
+<!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,5005895,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?5005895&101" alt="web hit counter" border="0"></a></noscript>
+<!-- Histats.com  END  -->
